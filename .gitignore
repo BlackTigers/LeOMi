@@ -6,3 +6,6 @@
 hs_err_pid*
 .metadata/
 .metadata/*
+*.prefs
+LeOMi/.project
+*.classpath
